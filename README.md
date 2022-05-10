@@ -1,10 +1,11 @@
-<!-- - 👋 Hi, I’m @mysouto -->
-<!-- - 👀 I’m interested in ... -->
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
+<h1 align="center">Hi 👋, I’m @mysouto</h1>
+<h3 align="center">A self-taught developer</h3>
 
-<!---
-mysouto/mysouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on [the Odin Project](https://www.theodinproject.com/)
+
+- 🌱 I’m learning **JavaScript, Python, Git**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/milenasouto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/milenasouto/" height="30" width="40" /></a>
+</p>
