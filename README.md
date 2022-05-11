@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m @mysouto</h1>
+<h1 align="center">Hi 👋, I’m Milena</h1>
 <h3 align="center">A self-taught developer</h3>
 
 - 🔭 I’m currently working on [the Odin Project](https://www.theodinproject.com/)
